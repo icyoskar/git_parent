@@ -4,6 +4,3 @@
 [submodule "sub_my_module1"]
 	path = sub_my_module1
 	url = https://github.com/icyoskar/gitModule1.git
-[submodule "sub_my_module2"]
-	path = sub_my_module2
-	url = https://github.com/icyoskar/gitMudule2.git
